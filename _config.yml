@@ -1,3 +1,10 @@
-title: Портфолио Айсылу
-description: Мои проекты по анализу данных
+title: 👩‍💻 Айсылу Россахацкая
+description: |
+  <img src="/photo.jpg" width="120" style="border-radius: 50%;"><br>
+  Junior Data Analyst  
+  📊 Python · SQL · A/B тесты  
+  <a href="/resume.pdf">📄 Скачать резюме</a><br>
+  <a href="https://t.me/rshtsk" target="_blank">💬 Telegram</a><br>
+  <a href="mailto:aysylu@email.com">📧 Написать на почту</a>
+
 theme: jekyll-theme-minimal
