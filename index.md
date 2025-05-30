@@ -81,7 +81,7 @@ _Пермь · услуги для населения_
   retantion (возвращаемость клиентов)
 
 **Пример дашборда (DataLens):**  
-<img src="/portfolio/img/datalens_dashboard.png" alt="Дашборд удовлетворенности" width="600"/>
+<img src="portfolio/img/datalens_dashboard.png" alt="Дашборд удовлетворенности" width="600"/>
 
 ---
 
