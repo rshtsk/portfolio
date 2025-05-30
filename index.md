@@ -81,7 +81,7 @@ _Пермь · услуги для населения_
   retantion (возвращаемость клиентов)
 
 **Пример дашборда (DataLens):**  
-<img src="img/datalens_dashboard.jpeg" alt="Дашборд удовлетворенности" width="600"/>
+<img src="/portfolio/img/datalens_dashboard.jpeg" alt="Дашборд удовлетворенности" width="600"/>
 
 ---
 
@@ -91,13 +91,13 @@ _Пермь · услуги для населения_
   - реализовала автообновление с помощью **APScheduler**
 
 **Фрагмент взаимодействия с Telegram-ботом:**  
-<img src="img/telegram_bot.jpeg" alt="Bot screenshot" width="500"/>
+<img src="/portfolio/img/telegram_bot.jpeg" alt="Bot screenshot" width="500"/>
 
 ---
 
 - Проанализировала и структурировала внутренние данные:  
 **Схема базы данных** (структура таблиц):  
-<img src="img/shema_baza.jpeg" alt="Схема базы данных" width="600"/>
+<img src="/portfolio/img/shema_baza.jpeg" alt="Схема базы данных" width="600"/>
 
 **Стек:** Python, Pandas, PostgreSQL, aiogram, APScheduler, Yandex Object Storage, Yandex DataLens
 
