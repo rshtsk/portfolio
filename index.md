@@ -150,12 +150,17 @@ _Бакалавриат, 2018_
 
 ## Навыки
 
-- Python: Pandas, Numpy, Seaborn, Matplotlib
-- SQL: ClickHouse, PostgreSQL
-- Статистика: t-тест, ANOVA, нормальность, корреляция
-- A/B тестирование
-- BI: Google Data Studio, Tableau
-- Jupyter Notebook, Git, Markdown, Telegram API
+**Языки и инструменты:**
+- **Python**: Pandas, NumPy, Seaborn, Matplotlib — анализ данных, визуализация, автоматизация
+- **SQL**: ClickHouse, PostgreSQL — выборки, агрегации, группировки, оконные функции
+- **Jupyter Notebook**, **Git** — оформление и ведение проектов, контроль версий
+
+**Статистика и A/B тестирование:**
+- Описательная статистика, t-тест, ANOVA, проверка нормальности, дисперсий, критерии значимости
+
+**BI и визуализация:**
+- Yandex DataLens: построение дашбордов для метрик, обратной связи и сезонности
+- Google Data Studi
 
 ---
 
@@ -163,5 +168,6 @@ _Бакалавриат, 2018_
 
 - [Telegram @akataevva](https://t.me/akataevva)
 - [LinkedIn](https://www.linkedin.com/in/a-rossakhatskaya)
+- [Habr](https://career.habr.com/rossakhatskaya)
 - +7(982)4840190
 - a.akataeva@ya.ru
