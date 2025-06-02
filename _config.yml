@@ -1,10 +1,14 @@
-title: 👩‍💻 Айсылу Россахацкая
+title: Айсылу Россахацкая
 description: |
-  <img src="/portfolio/photo.jpeg" width="120" style="border-radius: 50%;"><br>
+  <img src="/portfolio/photo.jpeg" width="160" style="border-radius: 50%;"><br><br>
   Junior Data Analyst  
-  📊 Python · SQL · A/B тесты  
-  <a href="/resume.pdf">📄 Скачать резюме</a><br>
-  <a href="https://t.me/rshtsk" target="_blank">💬 Telegram</a><br>
-  <a href="mailto:aysylu@email.com">📧 Написать на почту</a>
+  Python · SQL · A/B тесты  
+
+  <a href="/portfolio/resume.pdf" target="_blank">Скачать резюме</a><br>
+  <a href="https://t.me/akataevva" target="_blank">Telegram: @akataevva</a><br>
+  📞 +7 (982) 484‑01‑90<br>
+  <a href="mailto:a.akataeva@yandex.ru">a.akataeva@yandex.ru</a><br>
+  <a href="https://www.linkedin.com/in/a-rossakhatskaya/" target="_blank">LinkedIn</a><br>
+  <a href="https://career.habr.com/rossakhatskaya" target="_blank">Habr Career</a>
 
 theme: jekyll-theme-minimal
