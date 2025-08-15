@@ -97,6 +97,7 @@ _Пермь · услуги для населения_
   
 **Схема базы данных** (структура таблиц):  
 <img src="/portfolio/img/shema_baza.png" alt="Схема базы данных" width="600"/>
+![Схема базы данных](../portfolio/img/shema_baza.png)
 
 ---
 
