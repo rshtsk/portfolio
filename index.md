@@ -22,6 +22,7 @@ description: "SQL · Python · BI · A/B-тесты"
 **Стек.** PostgreSQL, DataLens, Python (pandas, aiogram, APScheduler), Yandex Object Storage, DBeaver.<br>
 **Схема базы данных** (структура таблиц): <br> 
 <img src="/portfolio/img/shema_baza.png" alt="Схема базы данных" width="600"/><br>
+![Схема базы данных](https://raw.githubusercontent.com/rshtsk/portfolio/main/img/shema_baza.png)
 **Пример дашборда (DataLens):**  <br>
 <img src="/portfolio/img/datalens_dashboard.png" alt="Дашборд удовлетворенности" width="600"/><br>
 **Фрагмент взаимодействия с Telegram-ботом:**  <br>
