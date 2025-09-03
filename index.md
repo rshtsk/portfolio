@@ -49,7 +49,7 @@ description: "SQL · Python · BI · A/B-тесты"
 **Стек.** SQL (PostgreSQL), Redash.<br>
 [Посмотреть на GitHub →](https://github.com/rshtsk/sql_product_analytics)<br>
 **Визуализация**<br>
-![Валовая прибыль](../img/economika_task_7_viz_1.png)<br>
+![Динамика выручки и маржинальности](https://raw.githubusercontent.com/rshtsk/sql_product_analytics/main/img/economika_task_7_viz_1.png)
 
 ---
 ## Обо мне
