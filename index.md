@@ -23,7 +23,6 @@ description: "SQL · Python · BI · A/B-тесты"
 **Схема базы данных** (структура таблиц): <br> 
 ![Схема базы данных](https://raw.githubusercontent.com/rshtsk/portfolio/main/img/shema_baza.png)
 **Пример дашборда (DataLens):**  <br>
-<img src="/portfolio/img/datalens_dashboard.png" alt="Дашборд удовлетворенности" width="600"/>
 ![Дашборд](https://raw.githubusercontent.com/rshtsk/portfolio/main/img/datalens_dashboard.png)<br>
 **Фрагмент взаимодействия с Telegram-ботом:**  <br>
 ![Telegram-бот](https://raw.githubusercontent.com/rshtsk/portfolio/main/img/telegram_bot.png)<br>
