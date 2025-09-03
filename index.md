@@ -37,7 +37,7 @@ description: "SQL · Python · BI · A/B-тесты"
 **Стек.** Python (pandas, numpy, scipy, matplotlib), статистика, Jupyter.<br>
 [Посмотреть на GitHub →](https://github.com/rshtsk/ab_test_food_delivery)<br>
 **Влияние формата фотографий блюд на число заказов**<br>
-<img src="img/photo_format_vs_orders.png" alt="Формат фото и число заказов" width="500"/><br>
+![Число покупок и формат фото](https://raw.githubusercontent.com/rshtsk/ab_test_food_delivery/main/img/photo_format_vs_orders.png)
 
 ---
 
