@@ -21,12 +21,12 @@ description: "SQL · Python · BI · A/B-тесты"
 **Результат.** Сократила ручную отчётность с 4 ч до 30 мин/неделю; увеличила долю обратной связи с 20% до 65%.<br>
 **Стек.** PostgreSQL, DataLens, Python (pandas, aiogram, APScheduler), Yandex Object Storage, DBeaver.<br>
 **Схема базы данных** (структура таблиц): <br> 
-<img src="/portfolio/img/shema_baza.png" alt="Схема базы данных" width="600"/><br>
 ![Схема базы данных](https://raw.githubusercontent.com/rshtsk/portfolio/main/img/shema_baza.png)
 **Пример дашборда (DataLens):**  <br>
-<img src="/portfolio/img/datalens_dashboard.png" alt="Дашборд удовлетворенности" width="600"/><br>
+<img src="/portfolio/img/datalens_dashboard.png" alt="Дашборд удовлетворенности" width="600"/>
+![Дашборд](https://raw.githubusercontent.com/rshtsk/portfolio/main/img/datalens_dashboard.png)<br>
 **Фрагмент взаимодействия с Telegram-ботом:**  <br>
-<img src="/portfolio/img/telegram_bot.png" alt="Bot screenshot" width="500"/><br>
+![Telegram-бот](https://raw.githubusercontent.com/rshtsk/portfolio/main/img/telegram_bot.png)<br>
 
 ---
 
