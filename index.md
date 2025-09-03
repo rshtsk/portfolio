@@ -46,7 +46,7 @@ description: "SQL · Python · BI · A/B-тесты"
 **Задача.** Рассчитать ключевые метрики: ARPU/ARPPU/AOV, валовую прибыль, retention (когорты), CAC/ROI; сравнить рекламные каналы.<br>
 **Подход.** CTE + оконные функции, когортный анализ, витрины под дашборд; визуализация в Redash.<br>
 **Результат.** 5+ инсайтов по выручке и удержанию, рекомендации по перераспределению маркет-бюджета.<br>
-**Стек.** SQL (PostgreSQL/ClickHouse), Redash.<br>
+**Стек.** SQL (PostgreSQL), Redash.<br>
 [Посмотреть на GitHub →](https://github.com/rshtsk/sql_product_analytics)<br>
 **Визуализация**<br>
 ![Валовая прибыль](../img/economika_task_7_viz_1.png)<br>
