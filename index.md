@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Айсылу Россахацкая
-Junior Data Analyst · SQL · Python · BI
+title: "Айсылу Россахацкая — Junior Data Analyst"
+description: "SQL · Python · BI · A/B-тесты"
 ---
 
 Запустила аналитику с нуля в туристическом бизнесе: БД → дашборды → автоматизация сбора данных. 
